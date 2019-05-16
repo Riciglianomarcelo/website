@@ -59,7 +59,32 @@ return array(
     ],
     "santiago-chile" => [
         "upfront" => '$(CLP) 2.415.000',
-        "financed" => []
+        "financed" => [
+            "3" => [
+                "monthly" => '$(CLP) 603.750,00 deposit + $(CLP) 608.789,00 / month',
+                "message" => [
+                    "en" => "Thanks to our partnership with Quotanda we have managed to create the most flexible placement plan in town",
+                    "es" => "Gracias a nuestro partnership con Quotanda tenemos el plan de pago mas flexible de la ciudad"
+                ],
+                "logo" => "/wp-content/themes/the-fastest/assets/img/quotanda.png"
+            ],
+            "6" => [
+                "monthly" => '$(CLP) 362.250,00 deposit + $(CLP) 356.231,00 / month',
+                "message" => [
+                    "en" => "Thanks to our partnership with Quotanda we have managed to create the most flexible placement plan in town",
+                    "es" => "Gracias a nuestro partnership con Quotanda tenemos el plan de pago mas flexible de la ciudad"
+                ],
+                "logo" => "/wp-content/themes/the-fastest/assets/img/quotanda.png"
+            ],
+            "12" => [
+                "monthly" => '$(CLP) 362.250,00 deposit + $(CLP) 184.311,00 / month',
+                "message" => [
+                    "en" => "Thanks to our partnership with Quotanda we have managed to create the most flexible placement plan in town",
+                    "es" => "Gracias a nuestro partnership con Quotanda tenemos el plan de pago mas flexible de la ciudad"
+                ],
+                "logo" => "/wp-content/themes/the-fastest/assets/img/quotanda.png"
+            ]
+    ],
     ],
     "el-nacional" => [],
     "maracaibo" => [],
